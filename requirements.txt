@@ -1,0 +1,13 @@
+the music bounce.wav file
+python (off course, you need this!!)
+and a windows os to play the sound with my code
+  If you are on mac instead of that winsound and all, just do:
+  import os
+  ---snip---
+  os.system('afplay bounce.wav&')
+  
+  If you are on linux:
+  import os
+  ---snip---
+  os.system('aplay bounce.wav&')
+And That's It
